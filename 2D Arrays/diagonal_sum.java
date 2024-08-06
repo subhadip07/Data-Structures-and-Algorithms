@@ -28,6 +28,6 @@ public class diagonal_sum
             {9,10,11,12},
             {13,14,15,16}
         };
-        diagonalSum(matrix);
+        System.out.println("Diagonal sum: " + diagonalSum(matrix));
     }
 }
